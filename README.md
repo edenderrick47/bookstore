@@ -46,7 +46,7 @@ python manage.py makemigrations
 Open the application on your browser `127.0.0.1:8000`.
 
 ## Contact Information   
-kinuthianatasha@gmail.com 
+mogagero@gmail.com 
 
 ---
 
